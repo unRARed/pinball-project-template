@@ -1,7 +1,9 @@
 .DS_Store
-logs
+.python-version
 __pycache__
 
 data/*
 !data/.keep
-.python-version
+
+logs
+!logs/example*

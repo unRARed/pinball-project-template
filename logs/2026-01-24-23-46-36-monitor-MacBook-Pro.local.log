@@ -1,5 +1,0 @@
-2026-01-24 23:46:36,382 : INFO : root : Loading MPF Monitor Version 0.57.1
-2026-01-24 23:46:36,686 : INFO : Core : Looking for MPF at localhost:5051
-2026-01-24 23:48:06,193 : INFO : root : MPF Monitor run loop ended.
-2026-01-24 23:48:06,193 : INFO : root : Stopping child threads... (0 remaining)
-2026-01-24 23:48:06,193 : INFO : root : All child threads stopped.
